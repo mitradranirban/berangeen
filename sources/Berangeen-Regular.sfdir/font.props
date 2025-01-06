@@ -1,0 +1,61 @@
+SplineFontDB: 3.0
+FontName: Berangeen-Regular
+FullName: Berangeen Regular
+FamilyName: Berangeen
+Weight: Regular
+Copyright: Copyright 2024 Dr Anirban Mitra 
+UComments: "2024-11-25: Created with FontForge (http://fontforge.org)"
+Version: 0.002
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 820
+Descent: 204
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 557 1747282856 10142422]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1732553524
+ModificationTime: 1736156823
+PfmFamily: 65
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1230
+OS2TypoAOffset: 0
+OS2TypoDescent: -306
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1230
+OS2WinAOffset: 0
+OS2WinDescent: 306
+OS2WinDOffset: 0
+HheadAscent: 1230
+HheadAOffset: 0
+HheadDescent: -306
+HheadDOffset: 0
+OS2CapHeight: 800
+OS2XHeight: 414
+OS2FamilyClass: 2565
+OS2Vendor: 'anir'
+MarkAttachClasses: 1
+DEI: 91125
+GaspTable: 1 65535 3 0
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 0
+FitToEm: 1
+WinInfo: 140 10 4
+BeginPrivate: 0
+EndPrivate
+EndSplineFont

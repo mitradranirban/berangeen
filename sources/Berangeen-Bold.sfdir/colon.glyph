@@ -1,0 +1,20 @@
+StartChar: colon
+Encoding: 58 58 26
+GlifName: colon
+Width: 142
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+116.497474683 439 m 1
+ 67 389.502525317 l 1
+ 17.5025253169 439 l 1
+ 67 488.497474683 l 1
+ 116.497474683 439 l 1
+116.497474683 29 m 1
+ 67 -20.4974746831 l 1
+ 17.5025253169 29 l 1
+ 67 78.4974746831 l 1
+ 116.497474683 29 l 1
+EndSplineSet
+EndChar

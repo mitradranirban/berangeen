@@ -1,0 +1,15 @@
+StartChar: hyphen
+Encoding: 45 45 13
+GlifName: hyphen
+Width: 512
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+430 460.497474683 m 1
+ 430 361.502525317 l 1
+ 82 361.502525317 l 1
+ 82 460.497474683 l 1
+ 430 460.497474683 l 1
+EndSplineSet
+EndChar

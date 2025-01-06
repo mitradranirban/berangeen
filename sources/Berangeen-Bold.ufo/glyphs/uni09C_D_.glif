@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni09CD" format="2">
+  <unicode hex="09CD"/>
+  <outline>
+    <contour>
+      <point x="-213.171347417" y="-100.326127266" type="curve" smooth="yes"/>
+      <point x="-229.497474683" y="-84.0" type="line"/>
+      <point x="-180.0" y="-34.5025253169" type="line"/>
+      <point x="-176.631356221" y="-37.0963025172"/>
+      <point x="-173.183734317" y="-39.4891127502"/>
+      <point x="-169.492212867" y="-43.180634201" type="curve" smooth="yes"/>
+      <point x="-119.994738184" y="-92.6781088841" type="line" smooth="yes"/>
+      <point x="-116.50351873" y="-96.1693283376"/>
+      <point x="-113.441706006" y="-100.323858332"/>
+      <point x="-112.502525317" y="-105.0" type="curve"/>
+      <point x="-79.5025253169" y="-159.0" type="line"/>
+      <point x="-129.0" y="-208.497474683" type="line"/>
+      <point x="-178.497474683" y="-159.0" type="line"/>
+      <point x="-211.497474683" y="-105.0" type="line" smooth="yes"/>
+      <point x="-211.823395876" y="-103.377251908"/>
+      <point x="-212.404941059" y="-101.817320384"/>
+    </contour>
+  </outline>
+</glyph>

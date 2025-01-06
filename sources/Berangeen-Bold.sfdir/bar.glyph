@@ -1,0 +1,15 @@
+StartChar: bar
+Encoding: 124 124 92
+GlifName: bar
+Width: 226
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+63.5025253169 781 m 1
+ 162.497474683 781 l 1
+ 162.497474683 3.5527136788e-15 l 1
+ 63.5025253169 3.5527136788e-15 l 1
+ 63.5025253169 781 l 1
+EndSplineSet
+EndChar

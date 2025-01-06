@@ -1,0 +1,15 @@
+StartChar: slash
+Encoding: 47 47 15
+GlifName: slash
+Width: 512
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+175.51404335 72.0140489865 m 1
+ 91.0025253169 107 l 1
+ 336.48595665 699.985951013 l 1
+ 420.997474683 665 l 1
+ 175.51404335 72.0140489865 l 1
+EndSplineSet
+EndChar

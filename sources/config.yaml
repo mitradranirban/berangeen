@@ -7,8 +7,9 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - Berangeen-Thick.ufo
+  - Berangeen-Regular.ufo
   - Berangeen-Thin.ufo
+  - Berangeen-Bold.ufo
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Berangeen"

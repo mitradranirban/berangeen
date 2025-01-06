@@ -1,0 +1,15 @@
+StartChar: period
+Encoding: 46 46 14
+GlifName: period
+Width: 142
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+187.497474683 29 m 1
+ 138 -20.4974746831 l 1
+ 88.5025253169 29 l 1
+ 138 78.4974746831 l 1
+ 187.497474683 29 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: quotedbl
+Encoding: 34 34 1
+GlifName: quotedbl
+Width: 520
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+167.002525317 671 m 1
+ 164.002525317 737 l 1
+ 262.997474683 737 l 1
+ 265.997474683 671 l 1
+ 167.002525317 671 l 1
+257.002525317 674 m 1
+ 355.997474683 674 l 1
+ 352.997474683 740 l 1
+ 254.002525317 740 l 1
+ 257.002525317 674 l 1
+EndSplineSet
+EndChar

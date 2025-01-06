@@ -1,0 +1,20 @@
+StartChar: equal
+Encoding: 61 61 57
+GlifName: equal
+Width: 512
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+430 421.497474683 m 1
+ 430 322.502525317 l 1
+ 82 322.502525317 l 1
+ 82 421.497474683 l 1
+ 430 421.497474683 l 1
+430 521.497474683 m 1
+ 430 422.502525317 l 1
+ 82 422.502525317 l 1
+ 82 521.497474683 l 1
+ 430 521.497474683 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,15 @@
+StartChar: quotesingle
+Encoding: 39 39 6
+GlifName: quotesingle
+Width: 307
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+105.574784404 730.673586224 m 1
+ 204.497474683 728 l 1
+ 201.425215596 614.326413776 l 1
+ 102.502525317 617 l 1
+ 105.574784404 730.673586224 l 1
+EndSplineSet
+EndChar

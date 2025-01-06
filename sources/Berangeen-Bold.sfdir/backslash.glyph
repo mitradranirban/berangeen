@@ -1,0 +1,15 @@
+StartChar: backslash
+Encoding: 92 92 60
+GlifName: backslash
+Width: 512
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+420.997474683 107 m 1
+ 336.48595665 72.0140489865 l 1
+ 91.0025253169 665 l 1
+ 175.51404335 699.985951013 l 1
+ 420.997474683 107 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,18 @@
+StartChar: Q
+Encoding: 81 81 44
+Width: 382
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+243 35 m 4
+ 359 118 384 311 375 446 c 1
+ 387 577 343 773 175 748 c 1
+ 1 762 7 542 5 418 c 0
+ 0 277 44 8 225 3 c 4
+ 254 1 298 20 283 51 c 5
+ 266 14 343 -14 341 -61 c 4
+ 341 -97 309 -114 293 -141 c 5
+ 221 -141 l 1029
+EndSplineSet
+EndChar

@@ -7,40 +7,43 @@ Copyright: Copyright (c) 2024 Dr Anirban Mitra
 UComments: "2024-11-25: Created with FontForge (http://fontforge.org)"
 FontLog: "Expand stroke Circular Major 5 Minor 5 angle 0 nib nib "
 Version: 0.002
-ItalicAngle: 0
+ItalicAngle: 5.5
 UnderlinePosition: -102
 UnderlineWidth: 51
-Ascent: 819
-Descent: 205
+Ascent: 820
+Descent: 204
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 557 1747282856 10142422]
+StyleMap: 0x0000
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1732553524
-ModificationTime: 1736089450
+ModificationTime: 1736155311
 PfmFamily: 65
-TTFWeight: 400
+TTFWeight: 100
 TTFWidth: 5
-LineGap: 92
+LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 988
+OS2TypoAscent: 1230
 OS2TypoAOffset: 0
-OS2TypoDescent: -226
+OS2TypoDescent: -306
 OS2TypoDOffset: 0
-OS2TypoLinegap: 92
-OS2WinAscent: 988
+OS2TypoLinegap: 0
+OS2WinAscent: 1230
 OS2WinAOffset: 0
-OS2WinDescent: 226
+OS2WinDescent: 306
 OS2WinDOffset: 0
-HheadAscent: 988
+HheadAscent: 1230
 HheadAOffset: 0
-HheadDescent: -226
+HheadDescent: -306
 HheadDOffset: 0
+OS2CapHeight: 800
+OS2XHeight: 414
 OS2Vendor: 'anir'
 MarkAttachClasses: 1
 DEI: 91125
@@ -50,7 +53,13 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2480 10 4
+WinInfo: 60 10 4
 BeginPrivate: 0
 EndPrivate
+Grid
+-1024 800.999976128 m 4
+ 2048 800.999976128 l 1028
+-1024 414 m 0
+ 2048 414 l 1024
+EndSplineSet
 EndSplineFont

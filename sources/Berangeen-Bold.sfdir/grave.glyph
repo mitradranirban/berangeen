@@ -1,0 +1,15 @@
+StartChar: grave
+Encoding: 96 96 63
+GlifName: grave
+Width: 223
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0.502525316942 549 m 1
+ 55.6706351033 598.171576114 l 1
+ 222.497474683 411 l 1
+ 167.329364897 361.828423886 l 1
+ 0.502525316942 549 l 1
+EndSplineSet
+EndChar
